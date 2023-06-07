@@ -1,0 +1,136 @@
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+
+  margin-bottom: 8%;
+}
+h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-top: 8%;
+}
+.para1 {
+  color: #8f8f8f;
+}
+#features {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  background-color: #fff;
+  position: relative;
+}
+.iphone-image {
+  position: absolute;
+  right: 23%;
+  transform: rotate(25deg);
+  transform-origin: center;
+  width: 20%;
+}
+.red-icons {
+  color: #ef8172;
+  font-size: 3.5rem;
+  margin-top: 10%;
+}
+.red-icons:hover {
+  color: #ff4c68;
+}
+
+.navbar {
+  padding: 0 0 4.5rem 0;
+}
+.nav-item {
+  padding: 0 18px;
+
+  font-size: 1.2rem;
+}
+.download-btn {
+  margin: 5% 5% 5% 0;
+}
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu", sans-serif;
+  font-weight: bold;
+  font-size: 1.7em;
+}
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+#testimonials {
+  background-color: #ff4c68;
+  color: #fff;
+
+  text-align: center;
+}
+.testimonial-image {
+  width: 15%;
+  border-radius: 100%;
+  
+}
+#press {
+  padding-bottom: 3%;
+  background-color: #ff4c68;
+  text-align: center;
+}
+.press-image {
+  margin: 15px 20px 50px;
+  width: 15%;
+}
+.carousel-item {
+  padding: 7% 15%;
+}
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+.price-column {
+  padding: 3% 2%;
+}
+#cta {
+  text-align: center;
+  padding: 7% 15%;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  background-color: #ff4c68;
+  color: #fff;
+  font-size: 16px;
+}
+.btn {
+  margin-right: 2.5%;
+}
+.last-line {
+  font-size: 3rem;
+}
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+.fa-twitter {
+  padding: 3% 0.7%;
+}
+.fa-instagram {
+  padding: 3% 0.7%;
+}
+.fa-facebook {
+  padding: 3% 0.7%;
+}
+.fa-envelope {
+  padding-left: 1%;
+}
+a {
+  color: #ff4c68;
+}
+a:hover {
+  color: #8f8f8f;
+}
